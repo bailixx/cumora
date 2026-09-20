@@ -121,5 +121,3 @@ INTEGRATION_DATABASE_URL=postgres://$USER@localhost:5432/cumora_test \
 
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — dev setup, the checks CI runs, and the architecture invariants to know before you start.
 - [`SECURITY.md`](SECURITY.md) — how to report a vulnerability privately.
-
-baili
